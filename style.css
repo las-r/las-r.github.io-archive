@@ -1,0 +1,24 @@
+/* Main styles */
+
+body {
+    font-family: Roboto Mono, monospace;
+    font-weight: 180;
+    
+    margin: 3%;
+
+    background-color: #000;
+    color: #fff;
+}
+
+a {
+    color: lightgrey
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #111;
+    border-radius: 5px;
+    margin-right: 1px;
+}
